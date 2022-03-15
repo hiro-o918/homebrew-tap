@@ -3,10 +3,10 @@
 class Awsctx < Formula
     desc "Context Manager for AWS Profiles"
     homepage "https://github.com/hiro-o918/awsctx"
-    version "0.3.0"
+    version "0.3.1"
     license "MIT"
-    url "https://github.com/hiro-o918/awsctx/releases/download/v0.3.0/awsctx_v0.3.0_x86_64-apple-darwin.tar.gz"
-    sha256 '5553efe340c8ee8cf9d6f387ffa5881534e5445c0e6f23183ec17f20a1a02c72'
+    url "https://github.com/hiro-o918/awsctx/releases/download/v0.3.1/awsctx_v0.3.1_x86_64-apple-darwin.tar.gz"
+    sha256 'd4ee2ac6bbe1759b7e7a7d1f1d885611d9b4ebcfa3f9f61a9890b5814b7f2fdb'
 
     def install
         bin.install "awsctx"
