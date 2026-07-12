@@ -6,7 +6,7 @@ class Rinkaku < Formula
     version "0.2.0"
     license "MIT"
     url "https://github.com/hiro-o918/rinkaku/releases/download/v0.2.0/rinkaku-x86_64-apple-darwin.tar.gz"
-    sha256 '498ca963142fd3437f22ac8254662914089c937cf8d0314414d870f543c864c7'
+    sha256 'beea56508994b2d1b96fe3a261e847b8c4f90ad7e641b55bca307e69121a910b'
 
     def install
         bin.install "rinkaku"
