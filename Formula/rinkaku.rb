@@ -3,10 +3,10 @@
 class Rinkaku < Formula
     desc "Condense PR diffs into signatures and their dependencies for LLM-friendly review"
     homepage "https://github.com/hiro-o918/rinkaku"
-    version "0.6.13"
+    version "0.6.14"
     license "MIT"
-    url "https://github.com/hiro-o918/rinkaku/releases/download/v0.6.13/rinkaku-x86_64-apple-darwin.tar.gz"
-    sha256 '720841e535d5e56f4cd16a7d7645a7579c67954a47e67ba383adc022f1d9b626'
+    url "https://github.com/hiro-o918/rinkaku/releases/download/v0.6.14/rinkaku-x86_64-apple-darwin.tar.gz"
+    sha256 'd4992e3088b81d61757e5bedcfb30eee112066cdda4a01f69ddfb46421888d64'
 
     def install
         bin.install "rinkaku"
